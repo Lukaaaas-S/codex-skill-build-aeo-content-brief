@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build AEO Content Brief"
+  short_description: "Build answer-ready content briefs"
+  default_prompt: "Use $build-aeo-content-brief to create an answer-ready SEO/AEO/GEO content brief from existing positioning and proof."
